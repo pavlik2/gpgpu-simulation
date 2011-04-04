@@ -1,0 +1,17 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= Introduction =
+
+To run simulation once just select number of particles and click button *run simulation*
+
+To run graphics simulation on CPU or GPU click appropriate buttons.
+
+To see a full benchmark outputted to file `output.txt` select array stride to decide how long you planning to run the simulation (less is slower) and click button *Full range CPU and GPU comparison*
+
+
+= Details =
+
+
+  * In future it's planned to add OpenCL support.
+  
